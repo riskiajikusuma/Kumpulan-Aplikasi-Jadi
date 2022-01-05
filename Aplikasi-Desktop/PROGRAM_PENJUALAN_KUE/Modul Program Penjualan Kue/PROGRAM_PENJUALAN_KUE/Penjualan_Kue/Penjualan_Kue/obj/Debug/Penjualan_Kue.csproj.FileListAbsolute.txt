@@ -1,0 +1,46 @@
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.exe
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.pdb
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\bin\Debug\Penjualan_Kue.exe
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\bin\Debug\Penjualan_Kue.pdb
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.csprojResolveAssemblyReference.cache
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FKasir.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FKue.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FMenuUtama.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FPelanggan.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FSupplier.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.Properties.Resources.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.csproj.GenerateResource.Cache
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FCariKasir.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FCariKue.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FCariPelanggan.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FCariSupplier.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FPembelian.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FPenyuplaian.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FAboutProgrammer.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FLogin.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FKwitansiPembelian.resources
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\bin\Debug\Penjualan_Kue.exe.config
+E:\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FBuktiPenyuplaian.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\bin\Debug\Penjualan_Kue.exe.config
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.exe
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.pdb
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.csprojResolveAssemblyReference.cache
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FAboutProgrammer.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FBuktiPenyuplaian.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FCariKasir.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FCariKue.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FCariPelanggan.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FCariSupplier.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FKasir.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FKue.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FKwitansiPembelian.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FLogin.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FMenuUtama.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FPelanggan.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FPembelian.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FPenyuplaian.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.GUI.FSupplier.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.Properties.Resources.resources
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\obj\Debug\Penjualan_Kue.csproj.GenerateResource.Cache
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\bin\Debug\Penjualan_Kue.exe
+E:\Modul Program Penjualan Kue\PROGRAM_PENJUALAN_KUE\Penjualan_Kue\Penjualan_Kue\bin\Debug\Penjualan_Kue.pdb
